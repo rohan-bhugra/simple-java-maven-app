@@ -33,7 +33,7 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>LTIN124555-releases</name>
+        <name>34402b1e44c95f5-releases</name>
         <url>http://localhost:8081/artifactory/libs-release</url>
     </repository>
     <snapshotRepository>
